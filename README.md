@@ -10,10 +10,6 @@ Your Browser locates the position with the help of these factors. With increasin
 - UMTS
 - GPS
 
-Example
-=============
-https://leaflet-geobrowser.patrick-scholz.de/
-
 Usage
 =============
 Include the .js file in your html file.
